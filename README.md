@@ -8,10 +8,12 @@
 
 This Weather App is a simple and user-friendly application built using HTML, CSS, and JavaScript. It allows users to get real-time weather information for any location. The app fetches data from an external weather API, providing accurate and up-to-date weather conditions including temperature, humidity, and wind speed.
 
+Visit: **https://nehra-weather-app.netlify.app/**
+
 ## Features
 
 - **Real-Time Weather Data**: Get the current weather for any city or location.
-- **Search Functionality**: Search for weather by city name.
+- **Search Functionality**: Search for the weather by city name.
 - **Weather Details**: View temperature, humidity, and wind speed.
 - **Clean UI**: Simple and intuitive interface for easy navigation.
 
@@ -30,7 +32,7 @@ The app uses JavaScript to fetch weather data from an external API based on the 
 
 #### Insert Your API Key in:
 
-```http
+```javascript
   const apiKey="";
 ```
 
